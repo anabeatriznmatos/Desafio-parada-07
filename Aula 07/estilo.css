@@ -1,0 +1,16 @@
+table{
+    width: 600px;
+    height: 400px;
+    border-spacing: 0px;
+    margin: auto;
+    text-align: center;
+}
+
+table, td, th{
+    border: 1px solid black;
+}
+
+.verde{
+    background-color: #2E8B57;
+    color: white;
+}
